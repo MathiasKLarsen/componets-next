@@ -1,0 +1,33 @@
+{
+  "UI Components": [
+    { "label": "Navbar", "href": "/components/ui/navbar" },
+    { "label": "Footer", "href": "/components/ui/footer" },
+    { "label": "Hero Section", "href": "/components/ui/hero" },
+    { "label": "Cards / Grids", "href": "/components/ui/cards" },
+    { "label": "Modal", "href": "/components/ui/modal" },
+    { "label": "Accordion / FAQ", "href": "/components/ui/accordion" },
+    { "label": "Tabs", "href": "/components/ui/tabs" },
+    { "label": "Tooltip", "href": "/components/ui/tooltip" },
+    { "label": "Slider", "href": "/components/ui/slider" }
+  ],
+  "API / Data": [
+    { "label": "API Fetch Wrapper", "href": "/components/api/fetch" },
+    { "label": "Data Cards", "href": "/components/api/cards" },
+    { "label": "Error & Loading States", "href": "/components/api/states" },
+    { "label": "Pagination", "href": "/components/api/pagination" },
+    { "label": "Infinite Scroll", "href": "/components/api/scroll" }
+  ],
+  "Layout & Structure": [
+    { "label": "2 / 3 Column Layouts", "href": "/components/layout/columns" },
+    { "label": "Dashboard Page", "href": "/components/layout/dashboard" },
+    { "label": "Blog Layout", "href": "/components/layout/blog" },
+    { "label": "Product Page", "href": "/components/layout/product" },
+    { "label": "404 Page", "href": "/components/layout/404" }
+  ],
+  "UX Enhancers": [
+    { "label": "Dark Mode Toggle", "href": "/components/ux/darkmode" },
+    { "label": "Skeleton Loader", "href": "/components/ux/skeleton" },
+    { "label": "Back to Top Button", "href": "/components/ux/backtotop" },
+    { "label": "Auto Animations", "href": "/components/ux/animations" }
+  ]
+}

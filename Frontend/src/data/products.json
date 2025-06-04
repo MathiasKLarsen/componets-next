@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "productimage": "product1.jpg",
+    "alttext": "Product 1 Image",
+    "title": "Awesome Chair"
+  },
+  {
+    "_id": "2",
+    "productimage": "product2.jpg",
+    "alttext": "Product 2 Image",
+    "title": "Modern Lamp"
+  },
+  {
+    "_id": "3",
+    "productimage": "product3.jpg",
+    "alttext": "Product 3 Image",
+    "title": "Comfortable Sofa"
+  },
+  {
+    "_id": "4",
+    "productimage": "product4.jpg",
+    "alttext": "Product 4 Image",
+    "title": "Stylish Desk"
+  },
+  {
+    "_id": "5",
+    "productimage": "product5.jpg",
+    "alttext": "Product 5 Image",
+    "title": "Wooden Shelf"
+  },
+  {
+    "_id": "6",
+    "productimage": "product6.jpg",
+    "alttext": "Product 6 Image",
+    "title": "Cozy Bed"
+  }
+]
